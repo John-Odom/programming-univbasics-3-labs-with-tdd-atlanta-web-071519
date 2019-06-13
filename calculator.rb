@@ -2,5 +2,5 @@
 
 def calculator (num1, operator, num2)
   
-  puts 
+  return num1 + operator + num2
 end
